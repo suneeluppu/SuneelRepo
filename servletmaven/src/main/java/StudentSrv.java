@@ -21,6 +21,7 @@ public class StudentSrv extends HttpServlet {
 		System.out.println("this is doget method");
                System.out.println("this is doget method modified");
                  System.out.println("pull into the master");
+                System.out.println("pull into the sun branch");
 		String sno=req.getParameter("sno");  
 		String sname=req.getParameter("sname");
 		String saddress=req.getParameter("saddress");
