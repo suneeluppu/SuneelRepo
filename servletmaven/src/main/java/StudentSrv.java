@@ -23,6 +23,7 @@ public class StudentSrv extends HttpServlet {
                  System.out.println("push into the master");
                 System.out.println("push into the sun branch");
 system.out.println("push into kumar branch");
+system.out.println("push into kumar branch---------------");
 		String sno=req.getParameter("sno");  
 		String sname=req.getParameter("sname");
 		String saddress=req.getParameter("saddress");
